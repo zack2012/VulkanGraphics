@@ -1,3 +1,0 @@
-/Users/lowe/Desktop/github/VulkanGraphics/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/lowe/Desktop/github/VulkanGraphics/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/lowe/Desktop/github/VulkanGraphics/cmake-build-debug/CMakeFiles/VulkanGraphics.dir

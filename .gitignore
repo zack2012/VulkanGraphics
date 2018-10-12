@@ -1,2 +1,3 @@
-macOS/
-cmake-build-debug/
+macOS/**
+cmake-build-debug/**
+.idea/**
